@@ -1,10 +1,10 @@
 Com base nos exemplos discutidos, pense sobre:
 
-Quais são as características comuns a esses softwares?
-    Resposta: Faltas de testes, falta de manutenção, falta de aplicação de paradigmas e padrões de desenvolvimento
+1. Quais são as características comuns a esses softwares?
+    Falta de testes, falta de manutenção, falta de aplicação de paradigmas e padrões de desenvolvimento
 
-Quais aspectos definem questões de qualidade:
-    Resposta: pontos de vista de diferentes partes envolvidas: os usuários buscam interface simples e rápida
+2. Quais aspectos definem questões de qualidade:
+    Pontos de vista de diferentes partes envolvidas: os usuários buscam interface simples e rápida
     os desenvolvedores percebem qualidade como boa estrutura, questões de coesão, acoplamento, etc.
 
 ------------------------------------------------------------------
@@ -12,8 +12,18 @@ Quais aspectos definem questões de qualidade:
 Considerando as dicussões e reflexões anteriores: 
 
 1. Avaliar a qualidade de um softeare existente?
-    A avaliação de um Software existente está baseado na percepeção de qualidade dos usúarios e dos desenvolvedores]
+    A avaliação de um Software existente está baseado na percepeção de qualidade dos usúarios e dos desenvolvedores
     Assim, com o veredito destas duas partes, podemos quantificar a qualidade do software
 
 2. Construir um novo software com qualidade?
     Aplicar paradigmas, padões de projeto e especificação de requisitos
+
+------------------------------------------------------------------
+
+1. Como as normas definem os aspector de qualidade enumerados anteriormente?
+
+2. Monte uma tabela com a correspondencia entre os termos em portugues e ingles, com suas respectivas definicoes
+
+3. Considerando as diferentes versões de normas, houveram mudancas nessas definições? São significativas?
+
+4. Considerando as normas mais recentes, comente por que há diferentes categorias de normas dentro da família Square. 
