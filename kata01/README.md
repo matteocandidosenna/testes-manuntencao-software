@@ -40,7 +40,7 @@ done
 14. Make a `commit`
 done
 15. What does the `status` look like now? The `log`?
-[Resultado](images/image08.png)
+[Resultado](images/image09.png)
 16. Add and commit the newest change
 done
 
